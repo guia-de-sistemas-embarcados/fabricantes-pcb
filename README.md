@@ -35,3 +35,6 @@ Na lista abaixo eu somente coloquei o nome e o link das empresas.
  - [WellPCB](http://www.wellpcb.com)
  - [Stick](http://www.stick.ind.br)
  - [Prime Brasil Eletrônica](http://www.primebrasileletronica.com.br)
+ - [Stec do Brasil](http://www.stecdobrasil.com.br/)
+ - [VBCircuitos](http://www.vbcircuitos.com.br)
+ 
