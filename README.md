@@ -1,5 +1,8 @@
 # fabricantes-pcb
 Lista de fornecedores de PCB
+Esta lista foi iniciada em uma discussão no grupo do Google chamado Sistemas Embarcados, no seguinte link: https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!searchin/sis_embarcados/lista$20empresas$20pcb%7Csort:date/sis_embarcados/I69Fn_Pt3e8/L7IVak4k9DMJ
+Nesta mesma discussão, o membro Laércio Marques criou uma planilha do Google com mais informações. Esta planilha pode ser acessada no seguinte link: https://docs.google.com/spreadsheets/d/1DFhP-l-Xym9mPL7zPE1O44kPVAVi1ynNC5Yv-6aC_zQ/edit#gid=0
+Na lista abaixo eu somente coloquei o nome e o link das empresas.
 
  - [Casa do Circuito](http://www.casadocircuito.com.br/)
  - [Griffus](http://www.griffus.com.br)
